@@ -4,20 +4,19 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-26-orange)  ![Java Version](https://img.shields.io/badge/SprintBoot-Swagger-red)
 
-# T26 - Spring Mysql with temporary deployment on Rallyway
+# T26 - Spring Mysql
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
-
 
 #### ### Rules of use 🤜🏼🤛🏼
 
 - Run the clone repository in your terminal:
 
-``git clone https://github.com/d-maza/dmb-tsys-Raliwaly-0911-ta26_1``
+`git clone https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-spring-1311-ta26-2`
 
 - Access the folder with the command:
 
-`cd dmb-tsys-Raliwaly-0911-ta26_1 `
+`cd ddmb-tsys-spring-1311-ta26-2`
 
 - Open the repository with your IDE, remember to have the SQL service running
 
