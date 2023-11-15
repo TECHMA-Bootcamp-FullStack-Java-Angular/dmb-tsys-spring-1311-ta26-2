@@ -4,7 +4,7 @@
 
 ![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-26-orange)  ![Java Version](https://img.shields.io/badge/SprintBoot-Swagger-red)
 
-# T26 - Spring Mysql
+# T26-2 - Spring Mysql
 
 Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
@@ -16,7 +16,7 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 - Access the folder with the command:
 
-`cd ddmb-tsys-spring-1311-ta26-2`
+`cd dmb-tsys-spring-1311-ta26-2`
 
 - Open the repository with your IDE, remember to have the SQL service running
 
