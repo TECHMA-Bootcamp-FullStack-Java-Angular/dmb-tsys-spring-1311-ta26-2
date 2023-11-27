@@ -6,7 +6,7 @@
 
 # T26-2 - Spring Mysql
 
-Este repositorio contiene las tareas del Bootcamp 👨‍💻
+This repository contains the Bootcamp tasks 👨‍💻
 
 #### ### Rules of use 🤜🏼🤛🏼
 
